@@ -27,7 +27,7 @@ El juego de amigo secreto ofrece las siguientes funciones:
 Aquí tienes una vista previa del juego:
 
 ### Pantalla Inicial
-![Pantalla Inicial](./assets/pantalla-inicial.png)
+![Pantalla Inicial](./assets/pantalla-inicial-1.png)
 
 ### Resultado del Juego 1
 ![Resultado del Juego](./assets/resultado-juego-1.png)
