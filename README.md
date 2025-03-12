@@ -12,7 +12,7 @@ Creación de aplicación web de amigo secreto, como parte de la formación en pr
 6. [Licencia](#📝-licencia)
 
 ## 📖 Descripción del Proyecto
-El **Juego de Amigo Secreto** es una aplicación desarrollada por el alumno0 de ALURA LATAM Mario Márquez para aprender los elementos básicos de programación en **HTML**, **CSS** y **JavaScript**. El juego permite a los usuarios participar en una dinámica para la asignación aleatoria a cada participante de un "amigo secreto".  
+El **Juego de Amigo Secreto** es una aplicación desarrollada por el alumno de ALURA LATAM Mario Márquez para aprender los elementos básicos de programación en **HTML**, **CSS** y **JavaScript**. El juego permite a los usuarios participar en una dinámica para la asignación aleatoria a cada participante de un "amigo secreto".  
 Esta aplicación es de **código abierto** y es el challenge de cierre para la etapa de “Inicio a la programación” de **Alura LATAM**.
 
 ## 🚧 Estado del Proyecto
